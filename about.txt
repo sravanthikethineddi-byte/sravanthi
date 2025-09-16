@@ -1,0 +1,3 @@
+K. Venkata sravanthi
+Bsc-Computer science
+Learning GitHub involves understanding both Git, the version control system, and GitHub, the web-based hosting service for Git repositories. Here's a structured approach to learning GitHub:
